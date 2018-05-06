@@ -18,7 +18,7 @@ Here are some links to projects I completed for the SDC nanodegree
 
 [Capstone Project](https://github.com/team-fusionx/CarND-Capstone)
 
-<img src="https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/images/PathPlanningScreenshot.jpg?raw=true" width=1000>
+![Path Planning Image](https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/images/PathPlanningScreenshot.jpg?raw=true){:class="img-responsive"}{:width="1000px"}  
 
 [Path Planning Project](https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/ModelDocumentation.md)
 
