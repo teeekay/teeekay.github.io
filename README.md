@@ -1,5 +1,3 @@
----
----
 [HeaderImg]: ./resources/images/sousousvlei_head.png "Trees and Sousousvlei dunes"
 
 ![Header Image][HeaderImg]
