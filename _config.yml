@@ -2,3 +2,5 @@ theme: jekyll-theme-hacker
 github:
   repository_name: teeekay.tknights.com
   project_tagline: "About Anthony Knight and some of the Projects he worked on"
+  repository_url: http://teeekay.tknights.com
+  site_name: teeekay.tknights.com
