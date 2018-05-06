@@ -10,4 +10,30 @@ For most of the last year I have been working on Udacity's [Self Driving Car](ht
 
 [Resume](./resources/resumes/Anthony.Knight.CV.20180506.pdf)
 
-Although I can still access CS344, Udacity no longer offers this class. 
+`* Although I can still access CS344, Udacity no longer offers this class.` 
+
+Here are some links to projects I completed for the SDC nanodegree
+
+
+
+[Capstone Project](https://github.com/team-fusionx/CarND-Capstone)
+
+<img src="https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/images/PathPlanningScreenshot.jpg?raw=true" width=1000>
+
+[Path Planning Project](https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/ModelDocumentation.md)
+
+
+<img src="https://github.com/teeekay/CarND-Semantic-Segmentation/blob/master/examples/uu_000011.png?raw=true" width=1000>
+
+[Semantic Segmentation Project](https://github.com/teeekay/CarND-Semantic-Segmentation)
+
+---
+
+<img src="https://github.com/teeekay/CarND-Vehicle-Detection/blob/master/output_images/videograb00002.png?raw=true"  width=1000>
+
+<i><u>Figure 1: Snapshot from Vehicle Detection Video</u></i>
+
+[Vehicle Detection with CV and SVM](https://github.com/teeekay/CarND-Vehicle-Detection/blob/master/Assignment5.TonyKnight.md)
+
+
+[Traffic Sign Classification Project](https://github.com/teeekay/CarND-Traffic-Sign-Classifier-Project/blob/master/Assignment2.TonyKnight.md)
