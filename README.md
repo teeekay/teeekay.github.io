@@ -1,7 +1,3 @@
----
-Anthony Knight's github pages website
----
-
 [HeaderImg]: ./resources/images/sousousvlei_head.png "Trees and Sousousvlei dunes"
 
 ![Header Image][HeaderImg]
