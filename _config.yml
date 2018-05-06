@@ -1,4 +1,6 @@
 theme: jekyll-theme-hacker
+title: title_value
+description: description_value
 github:
   repository_name: teeekay.tknights.com
   project_tagline: "About Anthony Knight and some of the Projects he worked on"
