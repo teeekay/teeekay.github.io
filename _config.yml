@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 title: teeekay.tknights.com
 description: A website for and by Tony Knight
-favicon: resources/images/favicon.ico
+favicon: favicon.ico
 github:
   repository_name: teeekay.tknights.com
   project_tagline: "About Anthony Knight and some of the Projects he worked on"
