@@ -17,7 +17,7 @@ Here are some links to projects I completed for the SDC nanodegree
 
 ---
 
-![Path Planning Image](https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/images/PathPlanningScreenshot.jpg?raw=true){:class="img-responsive"}{:width="500px"}  
+![Path Planning Image](https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/images/PathPlanningScreenshot.jpg?raw=true){:class="img-responsive"}{:width="500px"}
 [Path Planning Project](https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/ModelDocumentation.md)
 
 ---
@@ -28,7 +28,7 @@ Here are some links to projects I completed for the SDC nanodegree
 ---
 
 ![Vehicle Detection Image](https://github.com/teeekay/CarND-Vehicle-Detection/blob/master/output_images/videograb00002.png?raw=true){:class="img-responsive"}{:width="500px"}
-[Vehicle Detection with CV and SVM](https://github.com/teeekay/CarND-Vehicle-Detection/blob/master/Assignment5.TonyKnight.md)
+[Vehicle Detection with CV and SVM Project](https://github.com/teeekay/CarND-Vehicle-Detection/blob/master/Assignment5.TonyKnight.md)
 
 ---
 
