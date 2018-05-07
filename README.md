@@ -23,12 +23,12 @@ Here are some links to projects I completed for the SDC nanodegree
 [Path Planning Project](https://github.com/teeekay/CarND-T3-PathPlanning/blob/master/ModelDocumentation.md)
 
 
-![Semantic Segmentation Project](https://github.com/teeekay/CarND-Semantic-Segmentation/blob/master/examples/uu_000011.png?raw=true){:class="img-responsive"}{width="500px"}
+![Semantic Segmentation Project](https://github.com/teeekay/CarND-Semantic-Segmentation/blob/master/examples/uu_000011.png?raw=true){:class="img-responsive"}{:width="500px"}
 
 [Semantic Segmentation Project](https://github.com/teeekay/CarND-Semantic-Segmentation)
 
 
-![Vehicle Detection Image](https://github.com/teeekay/CarND-Vehicle-Detection/blob/master/output_images/videograb00002.png?raw=true){:class="img-responsive"}{width="500px"}
+![Vehicle Detection Image](https://github.com/teeekay/CarND-Vehicle-Detection/blob/master/output_images/videograb00002.png?raw=true){:class="img-responsive"}{:width="500px"}
 
 [Vehicle Detection with CV and SVM](https://github.com/teeekay/CarND-Vehicle-Detection/blob/master/Assignment5.TonyKnight.md)
 
