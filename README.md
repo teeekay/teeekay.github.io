@@ -2,8 +2,6 @@
 
 ![Header Image][HeaderImg]
 
-### 2018/05/05
-
 ## Anthony Maxwell Knight, B.Sc. P.Eng.
 
 [Resume](./resources/resumes/Anthony.Knight.CV.20180506.pdf)
